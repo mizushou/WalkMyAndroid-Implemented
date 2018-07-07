@@ -1,0 +1,4 @@
+#Fri Jul 06 19:52:16 PDT 2018
+base.0=/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

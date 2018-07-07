@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/shouhei/.android/build-cache/3a4fd7fd2f7b7813eb2faa112f8d6b3b19b194c4/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/shouhei/.android/build-cache/3a4fd7fd2f7b7813eb2faa112f8d6b3b19b194c4/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

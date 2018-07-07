@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/d7648f449ec95af4f81997cfda9816769beea485/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1e16cf6d85dcc164733bf29f76d35b2b6a25841/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/9084d079f53792d99d55f038f8cd68958ba3b55f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35464210bd3ab83124181b687376d6d2aa1eafee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_1b1c31b0eab839f2b57981b19501d155a85106e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/7091d4589bec883c51e50e0b24af26f5b62964b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_721a0b8d0ce2ad966717a15715be5a8aa8696ebe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/3a4fd7fd2f7b7813eb2faa112f8d6b3b19b194c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_297e046e6e472242f2f46a9f36c6fe12daaf1ed3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_41300c18a172aae7ae7a10db329b0e7fa8950f09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/2677f1ebcab7fc9582e6ef380aa888a43a143bf1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6db25c4ea90b9a2d421a244d145d019ab410b978/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/694ba5c689b3d895ce5c56666b66ef6b567e62f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1df2a23336d956cde542040263b350c7bd11f3f7">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71fe575b51379562b2d7e3ecf32d2e1fef55777a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/acf35dc6f0ab0f1a3ea196201f202ef65cfbbb10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44406ab4488e8b4364c5d657d991f565c7976620/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b7860c2b27dff91d3c2a3a992a30dd1bc24b838f">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_68e1f4e61de145d038e21d9fd2f3aad855d94686/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/9c174f5bd56530bbe3f508b43bca3e3cf749a738/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="182370a4a0bba7903c6ff2cb7b6ac21ca4a4bf89">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1feb68302d96072a19c0e695633d46d96721621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_885132b2093db6ceaec254534cec8874e40df111/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/f0f06b1b427e58f109464685b3ebd08135a20d37/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ebfd14cffc9e4c13184668616d795cd573a5aa05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/cac342d929656777012a20f1eb24a81fd5500750/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b0963a756656605c83dc7bcb27676399da46275/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/8d9b2f9da71d32d3cc5e7b0f46792d14717c1f75/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aabe19d5b05a58c7977be6daa3cec7045b88a7f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_4fc37dd4d372a785a8010be9415722919ff87648/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/b8d6b22199d823724861da803cd4736d68b561bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="22bd41f76fa5c015d05e62066ba7f45bfd5124a9">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37831e59c36b3a9e0ac58666ab8b3aaa1a723462/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/12e55ceae5f458f3cadfb470f40e9a6406dcf5a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9a1fb161e19128a604c07b58e6e06ac410c2f43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/7275845801b34846bad085a055d37d5472c7137b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6486c7a90c305573dec60eb083d2b8e35e544501/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.2/bfc967828daffc35ba01c9ee204d98b664930a0f/constraint-layout-solver-1.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bfc967828daffc35ba01c9ee204d98b664930a0f">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.1.2_be4cb5d25342d03a2ca6888780511e3f05c9cd56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/f7d972a4a6b1e907606b1776fd6c2d53b5ad06c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ea1b1f5414799f578474304d2346734af8847b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shouhei/.android/build-cache/30e897e3ec63a49f7c4f3ec48bce3d394fef915b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91d34def0190c74fe52f9e2c5c774ffdbd960d39/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Fri Jul 06 18:55:21 PDT 2018
+base.0=/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_41300c18a172aae7ae7a10db329b0e7fa8950f09
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_68e1f4e61de145d038e21d9fd2f3aad855d94686/classes.dex
+base.1=/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_68e1f4e61de145d038e21d9fd2f3aad855d94686
+file.0=/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_41300c18a172aae7ae7a10db329b0e7fa8950f09/classes.dex

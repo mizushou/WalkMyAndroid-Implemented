@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-38:12
+	package
+		ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:17:5-48
+		INJECTED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:11-69
+	android:versionCode
+		INJECTED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:19:22-76
+application
+ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:21:5-36:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shouhei/.android/build-cache/3a4fd7fd2f7b7813eb2faa112f8d6b3b19b194c4/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shouhei/.android/build-cache/d7648f449ec95af4f81997cfda9816769beea485/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shouhei/.android/build-cache/2677f1ebcab7fc9582e6ef380aa888a43a143bf1/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/shouhei/.android/build-cache/9c174f5bd56530bbe3f508b43bca3e3cf749a738/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/shouhei/.android/build-cache/b8d6b22199d823724861da803cd4736d68b561bd/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/shouhei/.android/build-cache/8d9b2f9da71d32d3cc5e7b0f46792d14717c1f75/output/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/shouhei/.android/build-cache/694ba5c689b3d895ce5c56666b66ef6b567e62f7/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/shouhei/.android/build-cache/f7d972a4a6b1e907606b1776fd6c2d53b5ad06c8/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/shouhei/.android/build-cache/f0f06b1b427e58f109464685b3ebd08135a20d37/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/shouhei/.android/build-cache/12e55ceae5f458f3cadfb470f40e9a6406dcf5a4/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shouhei/.android/build-cache/7275845801b34846bad085a055d37d5472c7137b/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shouhei/.android/build-cache/9084d079f53792d99d55f038f8cd68958ba3b55f/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shouhei/.android/build-cache/cac342d929656777012a20f1eb24a81fd5500750/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shouhei/.android/build-cache/7091d4589bec883c51e50e0b24af26f5b62964b2/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/shouhei/.android/build-cache/acf35dc6f0ab0f1a3ea196201f202ef65cfbbb10/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/shouhei/.android/build-cache/30e897e3ec63a49f7c4f3ec48bce3d394fef915b/output/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:24:9-41
+	android:supportsRtl
+		ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:26:9-35
+	android:roundIcon
+		ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:25:9-54
+	android:allowBackup
+		ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:23:9-43
+	android:theme
+		ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.walkmyandroid.MainActivity
+ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:28:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shouhei/.android/build-cache/3a4fd7fd2f7b7813eb2faa112f8d6b3b19b194c4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shouhei/.android/build-cache/d7648f449ec95af4f81997cfda9816769beea485/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shouhei/.android/build-cache/2677f1ebcab7fc9582e6ef380aa888a43a143bf1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/shouhei/.android/build-cache/9c174f5bd56530bbe3f508b43bca3e3cf749a738/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/shouhei/.android/build-cache/b8d6b22199d823724861da803cd4736d68b561bd/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/shouhei/.android/build-cache/8d9b2f9da71d32d3cc5e7b0f46792d14717c1f75/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/shouhei/.android/build-cache/694ba5c689b3d895ce5c56666b66ef6b567e62f7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/shouhei/.android/build-cache/f7d972a4a6b1e907606b1776fd6c2d53b5ad06c8/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/shouhei/.android/build-cache/f0f06b1b427e58f109464685b3ebd08135a20d37/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/shouhei/.android/build-cache/12e55ceae5f458f3cadfb470f40e9a6406dcf5a4/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shouhei/.android/build-cache/7275845801b34846bad085a055d37d5472c7137b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shouhei/.android/build-cache/9084d079f53792d99d55f038f8cd68958ba3b55f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shouhei/.android/build-cache/cac342d929656777012a20f1eb24a81fd5500750/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shouhei/.android/build-cache/7091d4589bec883c51e50e0b24af26f5b62964b2/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/shouhei/.android/build-cache/acf35dc6f0ab0f1a3ea196201f202ef65cfbbb10/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/shouhei/.android/build-cache/30e897e3ec63a49f7c4f3ec48bce3d394fef915b/output/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/shouhei/.android/build-cache/3a4fd7fd2f7b7813eb2faa112f8d6b3b19b194c4/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shouhei/StudioProjects/WalkMyAndroid/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/shouhei/.android/build-cache/3a4fd7fd2f7b7813eb2faa112f8d6b3b19b194c4/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shouhei/.android/build-cache/d7648f449ec95af4f81997cfda9816769beea485/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shouhei/.android/build-cache/2677f1ebcab7fc9582e6ef380aa888a43a143bf1/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/shouhei/.android/build-cache/12e55ceae5f458f3cadfb470f40e9a6406dcf5a4/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shouhei/.android/build-cache/7275845801b34846bad085a055d37d5472c7137b/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shouhei/.android/build-cache/9084d079f53792d99d55f038f8cd68958ba3b55f/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shouhei/.android/build-cache/cac342d929656777012a20f1eb24a81fd5500750/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shouhei/.android/build-cache/7091d4589bec883c51e50e0b24af26f5b62964b2/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/shouhei/.android/build-cache/acf35dc6f0ab0f1a3ea196201f202ef65cfbbb10/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/shouhei/.android/build-cache/3a4fd7fd2f7b7813eb2faa112f8d6b3b19b194c4/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/shouhei/.android/build-cache/3a4fd7fd2f7b7813eb2faa112f8d6b3b19b194c4/output/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/shouhei/.android/build-cache/8d9b2f9da71d32d3cc5e7b0f46792d14717c1f75/output/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/shouhei/.android/build-cache/8d9b2f9da71d32d3cc5e7b0f46792d14717c1f75/output/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/shouhei/.android/build-cache/8d9b2f9da71d32d3cc5e7b0f46792d14717c1f75/output/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/shouhei/.android/build-cache/8d9b2f9da71d32d3cc5e7b0f46792d14717c1f75/output/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/shouhei/.android/build-cache/f0f06b1b427e58f109464685b3ebd08135a20d37/output/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/shouhei/.android/build-cache/f0f06b1b427e58f109464685b3ebd08135a20d37/output/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/shouhei/.android/build-cache/f0f06b1b427e58f109464685b3ebd08135a20d37/output/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/shouhei/.android/build-cache/30e897e3ec63a49f7c4f3ec48bce3d394fef915b/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/shouhei/.android/build-cache/30e897e3ec63a49f7c4f3ec48bce3d394fef915b/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/shouhei/.android/build-cache/30e897e3ec63a49f7c4f3ec48bce3d394fef915b/output/AndroidManifest.xml:26:13-58

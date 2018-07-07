@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/shouhei/.android/build-cache/3a4fd7fd2f7b7813eb2faa112f8d6b3b19b194c4/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/shouhei/.android/build-cache/3a4fd7fd2f7b7813eb2faa112f8d6b3b19b194c4/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/shouhei/.android/build-cache/acf35dc6f0ab0f1a3ea196201f202ef65cfbbb10/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/shouhei/StudioProjects/WalkMyAndroid/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/shouhei/.android/build-cache/3a4fd7fd2f7b7813eb2faa112f8d6b3b19b194c4/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
